@@ -1,0 +1,14 @@
+form {
+  padding: 20px;
+  margin: 30px 10px;
+}
+select,
+label {
+  font-size: 18px;
+}
+select {
+  min-width: 100px;
+  display: block;
+  padding: 5px 20px;
+  margin-top: 20px;
+}
